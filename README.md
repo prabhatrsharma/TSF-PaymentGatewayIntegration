@@ -1,4 +1,3 @@
-```markdown
 # Payment Gateway Integration - Task 3
 
 This repository contains the code for a payment gateway integration project, which is part of The Sparks Foundation's internship program.
@@ -14,7 +13,7 @@ This repository contains the code for a payment gateway integration project, whi
 
 ## Introduction
 
-This project demonstrates the integration of a payment gateway into a web application. It allows users to make secure online donations.
+This project demonstrates the integration of a payment gateway into a web application, allowing users to make secure online donations.
 
 ## Features
 
@@ -26,9 +25,9 @@ This project demonstrates the integration of a payment gateway into a web applic
 
 Before you begin, ensure you have met the following requirements:
 
-- You have a basic understanding of HTML, CSS, and JavaScript.
-- You have access to a code editor of your choice.
-- You have a compatible web server or hosting environment to deploy the application.
+- Basic understanding of HTML, CSS, and JavaScript.
+- Access to a code editor of your choice.
+- Compatible web server or hosting environment to deploy the application.
 
 ## Getting Started
 
@@ -52,11 +51,11 @@ Follow these steps to get the project up and running on your local machine:
 
 1. Open the web application in your browser.
 
-2. Click on `Donate Now` button to Navigate to Danate Page.
+2. Click on the `Donate Now` button to navigate to the Donation Page.
 
-3. Click on `Donate Now` button on the `Donate Page` and execute futher process by entering amount of your choice.
+3. On the `Donate Page`, click on the `Donate Now` button and proceed by entering the desired donation amount.
 
-4. Select the payment method you prefer (e.g., credit/debit card, net banking, etc.).
+4. Select your preferred payment method (e.g., credit/debit card, net banking, etc.).
 
 5. Click the `Donate Now` button to complete the transaction.
 
